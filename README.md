@@ -1,13 +1,19 @@
 
-دستور راه اندازی سرور : 
+دستور راه اندازی سرور
+
 sudo apt update
 
 sudo apt upgrade
 
-دستور نصب v2ray : 
+
+دستور نصبv2ray : 
+
+
 bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install_en.sh)
 
 دستور نصب bbr : 
+
+
 wget -N --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && bash bbr.sh
 
 
