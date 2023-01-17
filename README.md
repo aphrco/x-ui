@@ -1,6 +1,7 @@
 
 دستور راه اندازی سرور : 
 sudo apt update
+
 sudo apt upgrade
 
 دستور نصب v2ray : 
